@@ -8,7 +8,7 @@ tags:
 - Redatuming
 - Physics-embedded Networks
 - Virtual Data
-date: "2020-10-02T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: "https://pawbz.github.io/FocusedBlindDecon.jl/dev/"
