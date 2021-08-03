@@ -54,7 +54,7 @@ brew link hugo@0.55.5
 ├── archetypes
 ├── content
 │   ├── home
-│   ├── member
+│   ├── author
 │   ├── news
 │   └── publication
 ├── layouts
