@@ -104,7 +104,7 @@ You should be on the branch `master` for all three of them. If not, then type `g
 
 The hugo setup uses a submodule to differentiate the public facing website from the private developer's side. To clone the repo and appropriately sync the supermodule with the submodule, do the following:
 
-- Clone the homepage repo [here](https://github.com/pawbz/website.git).
+- Clone the website repo [here](https://github.com/pawbz/website.git).
 - Now follow the path "/content/authors".
 - Make a new directory and name it as 'lastname-firstname'.
 - Navigate to the new directory made.
