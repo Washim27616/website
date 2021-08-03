@@ -20,13 +20,13 @@ organizations:
   url: "iisc.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sai Varun  is a full-time Ph.D. scholar in the Center for Earth Sciences at the Indian Institute of Science (IISc). He has obtained a Bachelor of Technology (B.Tech) degree in Civil Engineering Department from Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad (GRIET). He has interest to work related to seismic inversion and likes to develop and improve algorithms for seismic imaging and also finding its applications. He enjoys working with Machine Learning and its applications in Exploration Seismology."
+bio: "Sai Varun is a full-time Ph.D. scholar in the Center for Earth Sciences at the Indian Institute of Science (IISc). He has obtained a Bachelor of Technology (B.Tech) degree in the Civil Engineering Department from Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad (GRIET). He is interested in seismic inversion and likes to develop and improve algorithms for seismic imaging with applications. He also enjoys working on machine learning and its applications in exploration seismology."
 
 interests:
-- Exploration Seismology
-- Seismic Imaging
-- Seismic Inversion
-- Machine-Learning applications in Seismology
+- exploration seismology
+- seismic imaging
+- seismic inversion
+- machine-learning applications in seismology
 
 
 education:
@@ -82,5 +82,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
-
-Sai Varun  is a full-time Ph.D. scholar in the Center for Earth Sciences at the Indian Institute of Science (IISc). He has obtained a Bachelor of Technology (B.Tech) degree in Civil Engineering Department from Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad(GRIET). He has interest to work related to seismic inversion and likes to develop and improve algorithms for seismic imaging and also finding its applications. He enjoys working with Machine Learning and its applications in Exploration Seismology.
+Sai Varun is a full-time Ph.D. scholar in the Center for Earth Sciences at the Indian Institute of Science (IISc). He has obtained a Bachelor of Technology (B.Tech) degree in the Civil Engineering Department from Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad (GRIET). He is interested in seismic inversion and likes to develop and improve algorithms for seismic imaging with applications. He also enjoys working on machine learning and its applications in exploration seismology."

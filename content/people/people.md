@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = "We are actively looking for motivated students and post-docs to join our group! We value diversity and are open to people of all gender, caste, sexual orientation, race, physical ability and religion. Please write an [email](mailto:pawan@iisc.ac.in) to discuss possibilities if you would like to work with us. Masters and PhD admissions usually have to go through the procedures setup by IISc, followed by an interview with the department."
+subtitle = "We are actively looking for motivated students and post-docs to join our group! We value diversity and are open to people of all gender, caste, sexual orientation, race, physical abilities, and religions. Please write an [email](mailto:pawan@iisc.ac.in) to discuss possibilities if you would like to work with us. Masters and Ph.D. admissions usually have to go through the procedures set up by IISc, followed by an interview with the department."
 
 [content]
   # Choose which groups/teams of users to display.

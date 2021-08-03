@@ -90,5 +90,5 @@ user_groups:
 ---
 
 Pawan is an assistant professor in the Center for Earth Sciences at the Indian Institute of Science (IISc). Previously, he was a postdoctoral associate
-in the Department of Mathematics at MIT. He finished his Ph.D. program in Geophysics at Delft University of Technology (TUDelft), The Netherlands. In 2012, he obtained a Master of Science degree in Geophysics from the Indian Institute of Technology (Indian School of Mines), Dhanbad, India. He enjoys developing novel algorithms related to geophysical inverse problems, signal processing and machine learning. Click [here]({{< ref "admin_extra/index.md" >}}) for a longer bio.
+in the Department of Mathematics at MIT. He finished his Ph.D. program in Geophysics at Delft University of Technology (TUDelft), The Netherlands. In 2012, he obtained a Master of Science degree in Geophysics from the Indian Institute of Technology (Indian School of Mines), Dhanbad, India. He enjoys developing novel algorithms related to geophysical inverse problems, signal processing, and machine learning. Click [here]({{< ref "admin_extra/index.md" >}}) for a longer bio.
 

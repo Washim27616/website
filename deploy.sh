@@ -1,6 +1,6 @@
 git commit -a -m ".."
 git push
-./hugo
+hugo
 cd public
 git add *
 git commit -a -m ".."
