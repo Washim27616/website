@@ -20,7 +20,7 @@ organizations:
   url: "iisc.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sai Varun  is a full-time Ph.D. scholar in the Center for Earth Sciences at the Indian Institute of Science (IISc). He has obtained a Bachelor of Technology (B.Tech) degree in Civil Engineering Department from Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad(GRIET). He has interest to work related to seismic inversion and likes to develop and improve algorithms for seismic imaging and also finding its applications. He enjoys working with Machine Learning and its applications in Exploration Seismology."
+bio: "Sai Varun  is a full-time Ph.D. scholar in the Center for Earth Sciences at the Indian Institute of Science (IISc). He has obtained a Bachelor of Technology (B.Tech) degree in Civil Engineering Department from Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad (GRIET). He has interest to work related to seismic inversion and likes to develop and improve algorithms for seismic imaging and also finding its applications. He enjoys working with Machine Learning and its applications in Exploration Seismology."
 
 interests:
 - Exploration Seismology
